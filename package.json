@@ -19,6 +19,6 @@
   "homepage": "https://github.com/colestrode/marky-markov#readme",
   "dependencies": {
     "skellington": "^0.1.0",
-    "skellington-markov": "^1.0.0"
+    "skellington-markov": "^1.0.1"
   }
 }
